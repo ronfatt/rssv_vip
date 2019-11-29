@@ -3965,7 +3965,7 @@
         {
           "_customTemplate": true,
           "_afterNavbarItem": false,
-          "_customHTML": "<!-- TradingView Widget BEGIN -->\n<div class=\"tradingview-widget-container\">\n  <div id=\"tradingview_63b4e\"></div>\n  <div class=\"tradingview-widget-copyright\"><a href=\"https://www.tradingview.com/symbols/OTC-RSSV/\" rel=\"noopener\" target=\"_blank\"><span class=\"blue-text\">RSSV Chart</span></a> by TradingView</div>\n  [JS_CODE_0]\n  [JS_CODE_1]\n</div>\n<!-- TradingView Widget END -->",
+          "_customHTML": "<!-- TradingView Widget BEGIN -->\n<div class=\"tradingview-widget-container\">\n  <div id=\"tradingview_b4522\"></div>\n  <div class=\"tradingview-widget-copyright\"><a href=\"https://www.tradingview.com/symbols/OTC-RSSV/\" rel=\"noopener\" target=\"_blank\"><span class=\"blue-text\">RSSV Chart</span></a> by TradingView</div>\n  [JS_CODE_0]\n  [JS_CODE_1]\n</div>\n<!-- TradingView Widget END -->",
           "_customCSS": "/* Type valid CSS here */\n\ndiv {\n  padding: 80px 0;\n  color: #777;\n  text-align: center;\n}\np {\n  font-size: 60px;\n  color: #777;\n}",
           "alias": "code-editor",
           "_tags": [
@@ -3976,7 +3976,7 @@
           "_PHPplaceholders": [],
           "_JSplaceholders": [
             "<script type=\"text/javascript\" src=\"https://s3.tradingview.com/tv.js\"></script>",
-            "<script type=\"text/javascript\">\n  new TradingView.widget(\n  {\n  \"autosize\": true,\n  \"symbol\": \"OTC:RSSV\",\n  \"interval\": \"D\",\n  \"timezone\": \"Etc/UTC\",\n  \"theme\": \"Light\",\n  \"style\": \"0\",\n  \"locale\": \"en\",\n  \"toolbar_bg\": \"#f1f3f6\",\n  \"enable_publishing\": false,\n  \"allow_symbol_change\": true,\n  \"save_image\": false,\n  \"details\": true,\n  \"container_id\": \"tradingview_63b4e\"\n}\n  );\n  </script>"
+            "<script type=\"text/javascript\">\n  new TradingView.widget(\n  {\n  \"width\": 980,\n  \"height\": 610,\n  \"symbol\": \"OTC:RSSV\",\n  \"interval\": \"D\",\n  \"timezone\": \"Etc/UTC\",\n  \"theme\": \"Light\",\n  \"style\": \"1\",\n  \"locale\": \"en\",\n  \"toolbar_bg\": \"#f1f3f6\",\n  \"enable_publishing\": false,\n  \"save_image\": false,\n  \"details\": true,\n  \"container_id\": \"tradingview_b4522\"\n}\n  );\n  </script>"
           ]
         },
         {
